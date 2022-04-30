@@ -1,1 +1,0 @@
-## Haikai Mobile App
